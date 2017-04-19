@@ -1,0 +1,62 @@
+
+
+body{
+	background-image: url(../Imagenes/desk.jpeg); 
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+header{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#2989d8+0,4c68d7+0,8a3ab9+11,cd486b+51,bc2a8d+87,fbad50+100 */
+background: #2989d8; /* Old browsers */
+background: -moz-linear-gradient(top, #2989d8 0%, #4c68d7 0%, #8a3ab9 11%, #cd486b 51%, #bc2a8d 87%, #fbad50 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #2989d8 0%,#4c68d7 0%,#8a3ab9 11%,#cd486b 51%,#bc2a8d 87%,#fbad50 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #2989d8 0%,#4c68d7 0%,#8a3ab9 11%,#cd486b 51%,#bc2a8d 87%,#fbad50 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2989d8', endColorstr='#fbad50',GradientType=0 ); /* IE6-9 */
+}
+
+.titulo{
+	color:  #DD614A;
+}
+
+.titulo, .subtitulo{
+	text-shadow: -4px 4px 10px black; /* derecha abajo blur color */
+	font-style: 
+}
+
+.subtitulo{
+	color: #588B8B;
+}
+
+p{
+	color: #D3D5D4;
+}
+
+.ion-social-facebook{
+	color: #3b5998;
+}
+
+.ion-social-instagram{
+	color: #8a3ab9;
+}
+
+.ion-social-twitter{
+	color: #55acee;
+}
+
+.iconos{
+	font-size: 40px;
+}
+
+.ion-social-pinterest{
+	color: #cb2027;
+}
+
+.ion-social-snapchat{
+	color: #fffc00;
+}
+
+.ion-social-linkedin{
+	color: #007bb5;
+}
+
